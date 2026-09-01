@@ -130,13 +130,13 @@ public class MainActivity extends AppCompatActivity {
 ## MainActivity.java:
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/c98fde9c-2974-4992-a7ab-7255ec220c2d" />
 
-## On Create:
+## OnCreate():
 <img width="424" height="955" alt="image" src="https://github.com/user-attachments/assets/7d4abfe3-d2c2-4d80-888e-536b9aed007e" />
 
-## On Start:
+## OnStart():
 <img width="481" height="950" alt="image" src="https://github.com/user-attachments/assets/53fe7789-6aef-4627-8290-86c5754a4f20" />
 
-## On Resume:
+## OnResume():
 <img width="476" height="924" alt="image" src="https://github.com/user-attachments/assets/2ab832dd-04ec-473d-97a8-8b4f7d19ca6f" />
 
 
